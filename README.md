@@ -10,4 +10,4 @@ Music_Program
 
 https://drive.google.com/file/d/1dSvuh7h4cgLD9xxa6j6TZjpy9EumxhYj/view?usp=sharing
 
-![Music_Program]([URL_ของรูปภาพ](https://raw.githubusercontent.com/oORemOo/Music_Program/main/Music_Program.png)https://raw.githubusercontent.com/oORemOo/Music_Program/main/Music_Program.png)
+![Music_Program](https://raw.githubusercontent.com/oORemOo/Music_Program/main/Music_Program.png)
